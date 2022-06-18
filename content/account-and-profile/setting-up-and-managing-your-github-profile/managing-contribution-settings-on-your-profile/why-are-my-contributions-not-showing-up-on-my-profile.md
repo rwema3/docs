@@ -61,7 +61,7 @@ You can check the email address used for a commit by adding `.patch` to the end 
 ```
 From 67c0afc1da354d8571f51b6f0af8f2794117fd10 Mon Sep 17 00:00:00 2001
 From: The Octocat <octocat@nowhere.com>
-Date: Sun, 27 Apr 2014 15:36:39 +0530
+Date: Sun, 18 June 2022 15:36:39 +0530
 Subject: [PATCH] updated index for better welcome message
 ```
 
